@@ -45,8 +45,8 @@
         <td><b>Variables</b></td>
           <td>a storage location paired with an associated symbolic name (an identifier), which contains some known or unknown quantity of information referred to as a value</td>
           <td>a bank account</td>
-          <td>height = 10</td>
-          <td>x position <img src = "https://lh5.googleusercontent.com/qgtEaaRpxw_0xaBlKVtKxpJ5Zwky2KHkgHkuWR8U3iAlVTONUWiPJ6K1D8d_cZz7nVGUugmMWwaCzaQ=w1600-h794" </td>
+          <td>height = 10 <img src = "https://lh5.googleusercontent.com/yE_o6Qa5zL1FRZvKmi11hTw2-vvFJVKoN5n1T4yXVqfIuUoX5aCYT-E6inw889LG1f_YJvgVy-t6rZY=w1600-h794"> </td>
+          <td>x position <img src = "https://lh5.googleusercontent.com/qgtEaaRpxw_0xaBlKVtKxpJ5Zwky2KHkgHkuWR8U3iAlVTONUWiPJ6K1D8d_cZz7nVGUugmMWwaCzaQ=w1600-h794"> </td>
         </tr>
 
         <!-- Fill in the row for Loops -->
@@ -54,8 +54,8 @@
           <td><b>Loops</b></td>
           <td>a sequence of instructions that is continually repeated until a certain condition is reached</td>
           <td>vhs tape rewinder</td>
-          <td>while loop</td>
-          <td>repeat (number) <img src = "https://lh5.googleusercontent.com/_0wj3UMawsDP_hLg5bP4x5oPat9aTB7bl_8_W-LjFJsSekb88wQalezzk4oyLVD-b2ccMUm8DWKzxpo=w1600-h794" </td> </td>
+          <td>while loop <img src = "https://lh6.googleusercontent.com/hIXwOAdA3g78jyzPsy9q3n7yINl4SHptOPNgNyqt-7_mKVFUm6DbTUzMoHMsa96zStp_QLMAa8wBuuo=w1600-h794"> </td>
+          <td>repeat (number) <img src = "https://lh5.googleusercontent.com/_0wj3UMawsDP_hLg5bP4x5oPat9aTB7bl_8_W-LjFJsSekb88wQalezzk4oyLVD-b2ccMUm8DWKzxpo=w1600-h794"> </td>
         </tr>
 
         <!-- Fill in the row for Conditionals -->
@@ -63,8 +63,8 @@
           <td><b>Conditionals</b></td>
           <td>a feature that performs different computations or actions depending on whether a programmer-specified boolean condition evaluates to true or false</td>
           <td>If the stoplight is green, then you can move forward.</td>
-          <td>for x in range(3)</td>
-          <td>If (condition) then <img src="https://lh6.googleusercontent.com/BS0W1OMYtvgRA-V081kBXStKSuf-xX7hrz9nd06j2eLxJsOQKHiHVVAebuMeegIPgFf3yme4UNAWhB4=w1600-h794" alt="conditional"> </td>
+          <td>for x in range(5) <img src = "https://lh5.googleusercontent.com/0f-SCoMzEGo03ber_jfZYSvqbgRlqVit4Xs0u4Dzl-elXCEiSSfm5spJo8duWL-SwPbQ8XA26pFnPOA=w1600-h794"> </td>
+          <td>If (condition) then <img src="https://lh6.googleusercontent.com/BS0W1OMYtvgRA-V081kBXStKSuf-xX7hrz9nd06j2eLxJsOQKHiHVVAebuMeegIPgFf3yme4UNAWhB4=w1600-h794"> </td>
         </tr>
 
         <!-- Fill in the row for Functions -->
@@ -72,8 +72,8 @@
           <td><b>Functions</b></td>
           <td>a type of procedure or routine</td>
           <td>a recipe</td>
-          <td>print()</td>
-          <td>move (number) <img src = "https://lh3.googleusercontent.com/ALdPzcb3YnTE_maCTD71IJ3oIv8CtY6jUIae1AxOcIjNRN1jqOjTMK2QKpjbAcPaxlQ0Pj8q8kwGZuE=w1600-h794" </td> </td> </td>
+          <td>print() <img src="https://lh5.googleusercontent.com/akNBQYciIQMI7wqZFavC-1dhxOmHA2tt3ih5HNn7aAj_qlhBE_GW4p3ee1A3TB4dy5eAM0ep6WDuxZY=w1600-h794"></td>
+          <td>move (number) <img src = "https://lh3.googleusercontent.com/ALdPzcb3YnTE_maCTD71IJ3oIv8CtY6jUIae1AxOcIjNRN1jqOjTMK2QKpjbAcPaxlQ0Pj8q8kwGZuE=w1600-h794"> </td>
         </tr>
 
       </table>
